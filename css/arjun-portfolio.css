@@ -184,7 +184,10 @@ header.masthead {
       margin-bottom: 25px;
       font-family: 'Montserrat', 'Helvetica Neue', Helvetica, Arial, sans-serif;
       text-transform: uppercase; }
-
+    header.masthead .intro-text .more {
+      padding-top: 30px;
+      display:block;
+    }
 @media (min-width: 768px) {
     header.masthead .intro-text .intro-lead-in {
       font-size: 40px;
