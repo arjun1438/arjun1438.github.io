@@ -542,7 +542,9 @@ footer {
     text-transform: uppercase; }
 
 ul.social-buttons {
-  margin-bottom: 0; }
+  margin-bottom: 0; 
+  padding: 20px 0 0 0;
+  }
   ul.social-buttons li a {
     font-size: 20px;
     line-height: 40px;
